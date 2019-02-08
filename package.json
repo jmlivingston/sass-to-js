@@ -1,7 +1,7 @@
 {
 	"name": "sass-to-js",
 	"version": "1.0.0",
-	"description": "",
+	"description": "An attempt at a parser for Bootstrap SASS into JavaScript as it is way faster.",
 	"main": "index.js",
 	"repository": "https://github.com/jmlivingston/sass-to-js",
 	"scripts": {
