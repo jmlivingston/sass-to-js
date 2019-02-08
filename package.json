@@ -1,0 +1,18 @@
+{
+	"name": "sass-to-js",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"repository": "https://github.com/jmlivingston/sass-to-js",
+	"scripts": {
+		"start": "node ./sass-to-js",
+		"debug": "clear && nodemon --watch src ./src/sass-to-js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"bootstrap": "^4.2.1",
+		"rimraf": "^2.6.3"
+	}
+}
